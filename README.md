@@ -1,5 +1,5 @@
 # winnie_the_pooh
-Building a Robot
+Building a Robot as a cute toy for children
 
 
 We have created a robot that can follow light and stop when it encounters obstacles. 

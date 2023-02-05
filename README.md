@@ -1,5 +1,5 @@
 # winnie_the_pooh
-Buiding a Robot
+Building a Robot
 
 
 We have created a robot that can follow light and stop when it encounters obstacles. 
